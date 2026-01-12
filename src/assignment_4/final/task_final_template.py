@@ -4,8 +4,8 @@ import pandas as pd
 import plotly.io as pio
 import pytask
 
-from template_project.config import BLD, DOCUMENTS, SRC, TEMPLATE_GROUPS
-from template_project.final.plot_template import plot_regression_by_age
+from assignment_4.config import BLD, DOCUMENTS, SRC, TEMPLATE_GROUPS
+from assignment_4.final.plot_template import plot_regression_by_age
 
 for group in TEMPLATE_GROUPS:
 

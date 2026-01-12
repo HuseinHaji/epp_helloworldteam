@@ -3,9 +3,9 @@
 import pandas as pd
 import pytask
 
-from template_project.analysis.model_template import fit_logit_model
-from template_project.analysis.predict_template import predict_prob_by_age
-from template_project.config import BLD, SRC, TEMPLATE_GROUPS
+from assignment_4.analysis.model_template import fit_logit_model
+from assignment_4.analysis.predict_template import predict_prob_by_age
+from assignment_4.config import BLD, SRC, TEMPLATE_GROUPS
 
 # In practical scenarios, fitting multiple models for different formulas is common. With
 # pytask, we can iterate over these formulas to fit each model using the same code block

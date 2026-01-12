@@ -6,7 +6,7 @@ import sys
 
 import pytask
 
-from template_project.config import DOCUMENTS, ROOT
+from assignment_4.config import DOCUMENTS, ROOT
 
 
 @pytask.task(id="paper")
