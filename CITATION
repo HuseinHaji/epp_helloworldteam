@@ -1,6 +1,6 @@
-@Unpublished{DOE2024,
-    Title  = "EXAMPLE PROJECT",
-    Author = "JANE DOE",
+@Unpublished{HWT2026,
+    Title  = "Assignment_4",
+    Author = "Mert Bulut",
     Year   = "2024",
-    Url    = "https://github.com/opensourceeconomics/econ-project-templates",
+    Url    = "https://github.com/HuseinHaji/epp_helloworldteam.git",
 }

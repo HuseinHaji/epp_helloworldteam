@@ -2276,6 +2276,12 @@ packages:
   - pkg:pypi/arrow?source=hash-mapping
   size: 113854
   timestamp: 1760831179410
+- pypi: ./
+  name: assignment-4
+  version: 0.1.dev2+g667768435
+  sha256: 0ae52a135d64cf549df4e3e0adf29e8e970c258c658ebe9ab35c08294b10c157
+  requires_python: '>=3.11'
+  editable: true
 - conda: https://conda.anaconda.org/conda-forge/noarch/asttokens-3.0.1-pyhd8ed1ab_0.conda
   sha256: ee4da0f3fe9d59439798ee399ef3e482791e48784873d546e706d0935f9ff010
   md5: 9673a61a297b00016442e022d689faa6
@@ -9233,12 +9239,6 @@ packages:
   purls: []
   size: 155714
   timestamp: 1762510341121
-- pypi: ./
-  name: template-project
-  version: 0.10.2.dev33+g165ff0c8c
-  sha256: 8682956ea721877c26b510d4a793723278f75256f0f571cec6c687901809290e
-  requires_python: '>=3.11'
-  editable: true
 - conda: https://conda.anaconda.org/conda-forge/noarch/terminado-0.18.1-pyh0d859eb_0.conda
   sha256: b300557c0382478cf661ddb520263508e4b3b5871b471410450ef2846e8c352c
   md5: efba281bbdae5f6b0a1d53c6d4a97c93

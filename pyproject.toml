@@ -4,7 +4,7 @@
 
 [project]
 name = "assignment_4"
-description = "Template for reproducible research projects in economics"
+description = "This is our test project template"
 requires-python = ">=3.11"
 dynamic = ["version"]
 keywords = [
@@ -21,10 +21,10 @@ classifiers = [
     "Programming Language :: Python :: 3 :: Only",
 ]
 authors = [
-    { name = "JANE DOE", email = "janedoe@example-university.com" },
+    { name = "Mert Bulut", email = "janedoe@example-university.com" },
 ]
 maintainers = [
-    { name = "JANE DOE", email = "janedoe@example-university.com" },
+    { name = "Mert Bulut", email = "janedoe@example-university.com" },
 ]
 
 [project.readme]
@@ -35,10 +35,10 @@ content-type = "text/markdown"
 text = "MIT"
 
 [project.urls]
-Changelog = "https://github.com/OpenSourceEconomics/econ-project-templates"
-Documentation = "https://github.com/OpenSourceEconomics/econ-project-templates"
-Github = "https://github.com/OpenSourceEconomics/econ-project-templates"
-Tracker = "https://github.com/OpenSourceEconomics/econ-project-templates/issues"
+Changelog = "https://github.com/HuseinHaji/epp_helloworldteam.git"
+Documentation = "https://github.com/HuseinHaji/epp_helloworldteam.git"
+Github = "https://github.com/HuseinHaji/epp_helloworldteam.git"
+Tracker = "https://github.com/HuseinHaji/epp_helloworldteam.git/issues"
 
 # ======================================================================================
 # Build system configuration

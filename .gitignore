@@ -33,8 +33,7 @@ _build/
 *.toc
 
 # documentation
-docs_template/build/
-docs_template/scripts/latex/*.png
+
 
 node_modules/
 

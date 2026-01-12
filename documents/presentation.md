@@ -5,22 +5,22 @@ class: text-center
 highlighter: shiki
 lineNumbers: false
 info: |
-  ## EXAMPLE PROJECT
+  ## Assignment_4
   Academic presentation with Slidev
 drawings:
   persist: false
 transition: fade
-title: EXAMPLE PROJECT
+title: Assignment_4
 mdc: true
 defaults:
   layout: center
 ---
 
-# EXAMPLE PROJECT
+# Assignment_4
 
-JANE DOE
+Mert Bulut
 
-EXAMPLE UNIVERSITY
+The University of Bonn
 
 ---
 
